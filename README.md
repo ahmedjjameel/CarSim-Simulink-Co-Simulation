@@ -1,6 +1,6 @@
 ### CarSim – Simulink Co-Simulation Model with Two Vehicles
 
-This simulation is based on datasets included in CarSim; it uses two Run Control datasets, each linked to a different vehicle, and both linked to the same Simulink model. The two Run Control datasets are in the Datasets category Simulink and LabVIEW Models with titles that begin with Radar Active Cruise    (Figure 1).
+This simulation is based on datasets included in CarSim; it uses two Run Control datasets, each linked to a different vehicle, and both linked to the same Simulink model. The two Run Control datasets are in the Datasets category Simulink and LabVIEW Models with titles that begin with Radar Active Cruise as shown below in Figure 1.
 
 ![fig1](https://user-images.githubusercontent.com/81799459/205432329-bcea3649-e907-4caf-8566-cad8a46c812d.jpg)
 
